@@ -1,14 +1,10 @@
 package com.wipro.ccbill.entity;
 
- 
-
 import java.util.Date;
 
  
 
 import com.wipro.ccbill.exception.InputValidationException;
-
- 
 
 public class CreditCardBill {
     private String creditCardNo;
